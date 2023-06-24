@@ -1,1 +1,3 @@
 # SimpleCalculator
+The Simple Calculator is a web-based application developed using HTML, CSS, and JavaScript. It provides users with a basic and intuitive interface for performing simple mathematical calculations. The calculator consists of a visually appealing layout designed using CSS, which enhances the user experience.
+The calculator employs event listeners to detect button clicks, triggering corresponding JavaScript functions. When a user clicks on a number or an operator button, the JavaScript code updates the input fields and performs the necessary calculations. The results are then displayed in the output area, allowing users to view their computations.
